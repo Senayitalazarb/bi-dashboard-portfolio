@@ -1,10 +1,5 @@
-# bi-dashboard-portfolio
-A portfolio of interactive dashboards built using Power BI and Tableau, covering healthcare, HR, marketing, finance, and customer analytics.
-
-
 # BI Dashboard Portfolio
-
-Welcome to my **BI Dashboard Portfolio**, a curated collection of interactive dashboards developed using **Power BI** and **Tableau**. This portfolio showcases my skills in data modeling, storytelling, visualization, and generating actionable business insights across multiple industries including healthcare, HR, marketing, and finance.
+A portfolio of interactive dashboards built using Power BI and Tableau, covering healthcare, HR, marketing, finance, and customer analytics.
 
 ## 🔧 Tools Used
 - **Power BI** – Data modeling, DAX measures, and interactive reports
