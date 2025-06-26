@@ -12,17 +12,19 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 1. ### [Emergency Room Visit Report](powerbi/emergency-room-visit-report/)
    - **Industry:** Healthcare  
    - **Description:** Analyzes ER patient volume, average wait times, satisfaction scores, and weekly trends to help optimize operational efficiency.
-   - ![Emergency Room Visit GIF](powerbi/emergency-room-visit-report/emergency-room-visit.gif)
-     
+   - ![Emergency Room Visit Report GIF](powerbi/emergency-room-visit-report/emergency-room-visit.gif)
 
-2. ### [Interviewer Performance Assessment](powerbi/interview-performance-assessment/)
+2. ### [Sales Marketing Dashboard](powerbi/sales-marketing-dashboard/)
+   - **Industry:** Sales & Marketing  
+   - **Description:** Combines sales performance with marketing campaign metrics to track conversion rates, regional performance, and product-level insights.
+   - [Sales Marketing Dashboard]()
+
+3. ### [Interviewer Performance Assessment](powerbi/interview-performance-assessment/)
    - **Industry:** HR/Recruitment  
    - **Description:** Evaluates interviewer effectiveness across recruiter and technical interviews using KPIs like Rec/Tec Ratio, Prep Scores, and quadrant performance.
    - ![Interviwer Performance Assesement](powerbi/interview-performance-assessment/interviewer-performance-dashboard.gif)
 
-3. ### [Sales Marketing Dashboard](powerbi/sales-marketing-dashboard/)
-   - **Industry:** Sales & Marketing  
-   - **Description:** Combines sales performance with marketing campaign metrics to track conversion rates, regional performance, and product-level insights.
+
 
 ---
 
