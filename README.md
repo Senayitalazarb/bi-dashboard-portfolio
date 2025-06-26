@@ -17,7 +17,7 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 2. ### [Sales Marketing Dashboard](powerbi/sales-marketing-dashboard/)
    - **Industry:** Sales & Marketing  
    - **Description:** Combines sales performance with marketing campaign metrics to track conversion rates, regional performance, and product-level insights.
-   - [Sales Marketing Dashboard](powerbi/sales-marketing-dashboard/sales-marketing-dashboard.gif)
+   - ![Sales Marketing Dashboard](powerbi/sales-marketing-dashboard/sales-marketing-dashboard.gif)
 
 3. ### [Interviewer Performance Assessment](powerbi/interview-performance-assessment/)
    - **Industry:** HR/Recruitment  
