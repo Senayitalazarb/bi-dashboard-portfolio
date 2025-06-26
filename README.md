@@ -46,6 +46,7 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 6. ### [HR Analytics Dashboard](tableau/hr-analytics-dashboard/)
    - **Industry:** Human Resources  
    - **Description:** Tracks employee satisfaction, attrition rate, department-wise trends, and training participation across the organization.
+     ![HR Analytics Dashboard](tableau/hr-analytics-dashboard/hr-analytics-dashboard.gif)
 
 7. ### [Bank Customers Dashboard](tableau/bank-customer-dashboard/)
    - **Industry:** Finance/Banking  
