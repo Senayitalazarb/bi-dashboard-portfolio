@@ -12,7 +12,7 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 1. ### [Emergency Room Visit Report](powerbi/emergency-room-visit-report/)
    - **Industry:** Healthcare  
    - **Description:** Analyzes ER patient volume, average wait times, satisfaction scores, and weekly trends to help optimize operational efficiency.
-   - ![Emergency Room Visit GIF](powerbi/assets/gifs/EmergencyRoomVisit.gif)
+   - ![Emergency Room Visit GIF](powerbi/emergency-room-visit-report/emergency-room-visit.gif)
      
 
 2. ### [Interviewer Performance Assessment](powerbi/interview-performance-assessment/)
