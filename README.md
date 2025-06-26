@@ -18,6 +18,7 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 2. ### [Interviewer Performance Assessment](powerbi/interview-performance-assessment/)
    - **Industry:** HR/Recruitment  
    - **Description:** Evaluates interviewer effectiveness across recruiter and technical interviews using KPIs like Rec/Tec Ratio, Prep Scores, and quadrant performance.
+   - ![Interviwer Performance Assesement](powerbi/interview-performance-assessment/interviewer-performance-dashboard.gif)
 
 3. ### [Sales Marketing Dashboard](powerbi/sales-marketing-dashboard/)
    - **Industry:** Sales & Marketing  
