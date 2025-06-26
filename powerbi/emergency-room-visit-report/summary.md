@@ -43,7 +43,8 @@ The **Emergency Room Visit Report** is a comprehensive Power BI dashboard built 
 
 ## 🎞️ Dashboard Preview
 
-![Emergency Room Visit GIF](powerbi/assets/gifs/EmergencyRoomVisit.gif)
+![Emergency Room Visit GIF](![Emergency Room Visit GIF](powerbi/assets/gifs/EmergencyRoomVisit.gif)
+)
 
 ---
 
