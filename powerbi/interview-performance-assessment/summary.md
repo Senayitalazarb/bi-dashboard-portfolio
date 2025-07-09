@@ -53,12 +53,6 @@ The **Interview Performance Assessment Dashboard** is a data-driven Power BI too
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Interview Performance Dashboard](powerbi/assets/images/InterviewPerformanceAssessment.png)
-
----
-
 ## 📄 Additional Files
 - [`dax-formulas.md`](dax-formulas.md): All DAX measures powering the dashboard  
 - [`sql-formulas.sql`](sql-formulas.sql): SQL logic for transforming raw interview data into analytic-ready format
