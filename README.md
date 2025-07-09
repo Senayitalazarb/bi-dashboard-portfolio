@@ -43,6 +43,8 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 5. ### [Customer Analytics Dashboard](tableau/customer-analytics-dashboard/)
    - **Industry:** Marketing/Consumer Insights  
    - **Description:** Segments customers by behavior and demographics to identify profitable groups and track key engagement metrics.
+    ![Customer-Analysis-Dashboard](tableau/customer-analytics-dashboard/customer-analysis-dashboard.gif)
+     
 
 6. ### [HR Analytics Dashboard](tableau/hr-analytics-dashboard/)
    - **Industry:** Human Resources  
