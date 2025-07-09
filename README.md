@@ -54,6 +54,7 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 7. ### [Bank Customers Dashboard](tableau/bank-customer-dashboard/)
    - **Industry:** Finance/Banking  
    - **Description:** Analyzes customer demographics, account types, credit card usage, and churn indicators to support data-driven retention strategies.
+     ![UK-Bank-Customers-Dashboard](tableau/bank-customer-dashboard/bank-customers-dashboard.gif) 
 
 ---
 
