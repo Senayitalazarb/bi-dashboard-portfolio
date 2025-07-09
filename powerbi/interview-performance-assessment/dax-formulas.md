@@ -1,10 +1,10 @@
-# 🧮 DAX Measures for Interview Performance Assessment Dashboard
+#  DAX Measures for Interview Performance Assessment Dashboard
 
 This document contains all the DAX measures used in the Interview Performance Assessment Dashboard. These measures support KPI calculations, trend analysis, and week-over-week comparisons.
 
 ---
 
-## 🎯 Core KPI Measures
+##  Core KPI Measures
 
 ```dax
 -- Total Interviews
