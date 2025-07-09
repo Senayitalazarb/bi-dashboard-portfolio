@@ -4,7 +4,7 @@ This document includes all DAX measures used in the Sales Marketing Dashboard. T
 
 ---
 
-## 📌 Core KPI Measures
+##  Core KPI Measures
 
 ```dax
 -- Revenue (Total)
