@@ -1,4 +1,4 @@
-# Interview Performance Assessment Dashboard - DAX formulas
+# Interview Performance Assessment Dashboard - DAX Formulas
 
 This document contains all the DAX measures used in the Interview Performance Assessment Dashboard. These measures support KPI calculations, trend analysis, and week-over-week comparisons.
 
