@@ -38,6 +38,7 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 4. ### [Netflix Dashboard](tableau/netflix-dashboard/)
    - **Industry:** Entertainment  
    - **Description:** Visualizes Netflix content library trends, genre distribution, release trends, and country-wise content availability.
+     ![NetFlix Dashboard](powerbi/interview-performance-assessment/interviewer-performance-dashboard.gif)
 
 5. ### [Customer Analytics Dashboard](tableau/customer-analytics-dashboard/)
    - **Industry:** Marketing/Consumer Insights  
