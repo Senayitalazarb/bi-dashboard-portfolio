@@ -1,6 +1,6 @@
 # 🏥 Emergency Room Visit Report
 
-## 📌 Overview
+##  Overview
 The **Emergency Room Visit Report** is a dynamic Power BI dashboard designed to monitor and improve patient experience and operational efficiency in emergency care. It tracks key metrics such as total visits, wait times, satisfaction rates, referral trends, and demographic-based performance insights. The report enables healthcare teams to quickly identify issues, uncover patterns, and take action.
 
 ---
@@ -17,13 +17,13 @@ The **Emergency Room Visit Report** is a dynamic Power BI dashboard designed to 
 
 ## 💡 Insights Generated
 
-### ✅ Positive Insights
+###  Positive Insights
 - Reducing wait times—especially under **35 minutes**—boosts satisfaction, increasing average ratings to **60%**, with some groups reaching **75%**.
 - **Asian patients** showed an **8% drop** in wait times (to 32.84 minutes), resulting in a satisfaction score of **75%**.
 - **Patients aged 51–60** benefited from cultural competence and proactive management, leading to faster diagnoses and higher trust.
 - Targeted improvements for **older patients (70+)**, currently at **51%** satisfaction, can raise scores by **10%**, significantly enhancing care quality.
 
-### ⚠️ Negative Insights
+###  Negative Insights
 - Patients waiting over **55 minutes** report sharply lower satisfaction (**58%**) and an average score of **2.46**.
 - **Elderly patients (70+)** have the **lowest satisfaction** and a score of **3.63**, indicating delays, communication gaps, or unmet care needs.
 - Satisfaction significantly drops when wait time exceeds **30 minutes**, especially for non-referred patients or walk-ins.
@@ -44,12 +44,6 @@ The **Emergency Room Visit Report** is a dynamic Power BI dashboard designed to 
   - Grouped satisfaction analysis by age and wait time
 - **Custom Calendar Table** for flexible date filtering
 - **Conditional Formatting** for WoW arrows (green/red) and satisfaction bands
-
----
-
-## 🖼️ Dashboard Preview
-
-![Emergency Room Visit GIF](powerbi/assets/gifs/EmergencyRoomVisit.gif)
 
 ---
 
