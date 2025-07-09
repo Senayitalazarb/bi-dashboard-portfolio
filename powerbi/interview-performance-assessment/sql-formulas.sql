@@ -1,7 +1,5 @@
+-- interview-performance-assesement – SQL Prep and KPI Calculations
 
-----------------------------------------------------
---  Core KPI Queries
-----------------------------------------------------
 
 -- 1. Total Interviews
 SELECT COUNT(*) AS Total_Interviews
