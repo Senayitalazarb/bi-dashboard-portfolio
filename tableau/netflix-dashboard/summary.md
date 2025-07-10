@@ -62,6 +62,7 @@ To provide insights into the global availability and genre distribution of Netfl
 ## 📄 Additional Files
 
 - [`calculated_fields.md`](calculated_fields.md) – List of all custom calculations
+- [`sql-formulas.sql`](sql-formulas.sql): SQL queries for cleaning, transforming, and generating KPIs
 
 ---
 
