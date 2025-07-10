@@ -1,4 +1,4 @@
-#  Netflix Global Content Dashboard (Tableau)
+#  Netflix Global Content Dashboard 
 
 ## 📌 Overview
 This Tableau dashboard analyzes Netflix’s global catalog, focusing on the distribution of movies and TV shows by country, genre, release year, rating, and type. It offers a snapshot of content diversity and allows exploration of trends and availability across regions.
@@ -18,6 +18,18 @@ To provide insights into the global availability and genre distribution of Netfl
 - **Ratings Distribution:** Shows distribution by maturity ratings (e.g., TV-MA, PG, R)
 - **Content Growth Over Time:** Area chart visualizing content release growth by type since 2008
 - **Show Metadata Panel:** Interactivity to explore detailed title info (genre, year, duration, description)
+
+---
+
+##  Insights
+
+- **Movies dominate the catalog**, comprising over two-thirds (68.4%) of the content.
+- **TV-MA and TV-14** are the most common content ratings, reflecting Netflix’s focus on mature audiences.
+- The **United States, India, and the UK** host the largest number of shows globally.
+- **Documentaries** and **Stand-Up Comedy** are the leading genres in Netflix’s catalog, showing consumer interest in factual and entertainment-focused content.
+- Content volume saw a **significant rise between 2016 and 2019**, indicating a production or acquisition boom pre-COVID.
+- The presence of multiple genres per title makes Netflix’s content flexible and cross-demographic.
+- **TV Shows have grown consistently** since 2013, suggesting Netflix's increasing investment in serialized content.
 
 ---
 
