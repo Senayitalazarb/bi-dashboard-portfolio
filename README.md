@@ -1,7 +1,7 @@
 # BI Dashboard Portfolio
 A portfolio of interactive dashboards built using Power BI and Tableau, covering healthcare, HR, marketing, finance, and customer analytics.
 
-## 🔧 Tools Used
+##  Tools Used
 - **Power BI** – Data modeling, DAX measures, and interactive reports
 - **Tableau** – Visual storytelling, calculated fields, and business exploration
 
