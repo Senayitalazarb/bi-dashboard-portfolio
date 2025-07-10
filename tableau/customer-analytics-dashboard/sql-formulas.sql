@@ -1,6 +1,5 @@
 #  SQL Queries – Customer Analysis Dashboard
 
-```sql
 -- Total Revenue
 SELECT SUM(Total) AS Total_Revenue
 FROM sales_06_FY2020_21;
