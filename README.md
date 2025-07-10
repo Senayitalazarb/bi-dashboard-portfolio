@@ -66,7 +66,7 @@ Each dashboard folder contains:
 
 ---
 
-## 📫 Contact  
+##  Contact  
 If you'd like to connect, collaborate, or provide feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/senayit-berhane/) 
 
 ---
