@@ -1,3 +1,6 @@
+# Calculated Fields – Netflix Tableau Dashboard
+
+```tableau
 -- Movie Count
 IF [Type] = "Movie" THEN 1 ELSE 0 END
 
