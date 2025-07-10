@@ -33,7 +33,7 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 
 ---
 
-## 📈 Tableau Dashboards
+##  Tableau Dashboards
 
 4. ### [Netflix Dashboard](tableau/netflix-dashboard/)
    - **Industry:** Entertainment  
