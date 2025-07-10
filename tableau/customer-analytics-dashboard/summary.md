@@ -36,7 +36,7 @@ To identify revenue-driving customer segments, understand regional trends, and a
 
 ---
 
-## 💡 Insights
+##  Insights
 
 - The **South region** dominates total revenue with nearly 40% share.
 - The **30–40 age group** is the most valuable demographic.
@@ -46,7 +46,7 @@ To identify revenue-driving customer segments, understand regional trends, and a
 
 ---
 
-## 🔍 Filters / Interactions
+##  Filters / Interactions
 
 - **Category Filter**: Applies across all visuals for focused analysis.
 - **Hover Interactions**: Reveal state-level revenue and demographic splits.
