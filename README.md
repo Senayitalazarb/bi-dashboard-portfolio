@@ -58,7 +58,7 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 
 ---
 
-## 🧭 How to Navigate
+##  How to Navigate
 Each dashboard folder contains:
 - `summary.md`: Overview, data used, KPIs tracked, insights
 - `dax-formulas.md` *(for Power BI)*: Key DAX measures with descriptions
