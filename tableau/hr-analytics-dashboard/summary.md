@@ -1,4 +1,4 @@
-#  HR Analytics Dashboard (Tableau)
+#  HR Analytics Dashboard 
 
 ## 📌 Overview
 The **HR Analytics Dashboard** is an interactive Tableau report that analyzes key human resource metrics like attrition, job satisfaction, and employee demographics. It helps HR teams identify risk factors contributing to employee turnover and supports data-driven retention strategies.
