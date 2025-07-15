@@ -1,4 +1,4 @@
-# 🧮 Tableau Calculated Fields – HR Analytics Dashboard
+#  Tableau Calculated Fields – HR Analytics Dashboard
 
 ```tableau
 -- Attrition Count
