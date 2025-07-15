@@ -1,12 +1,7 @@
 
 ---
-
 ###  **`sql-formulas.sql` — SQL Queries for HR Analytics**
-
--- 📁 FILE: sql-formulas.sql
--- SQL Queries for Data Preprocessing and KPI Calculation
--- Based on HR Analytics Dataset (1470 records)
-
+  
 ----------------------------------------------------
 -- Core KPIs
 ----------------------------------------------------
