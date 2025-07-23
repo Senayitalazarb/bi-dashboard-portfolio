@@ -1,4 +1,4 @@
-#  UK Bank Customer Segmentation Dashboard (Tableau)
+#  UK Bank Customer Segmentation Dashboard 
 
 ## 📌 Overview
 The **UK Bank Customer Segmentation Dashboard** provides an interactive analysis of customer demographics, regional distribution, account balance distribution, and job classification breakdown.  
