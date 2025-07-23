@@ -34,35 +34,35 @@ To segment the bank’s customer base by demographics, job classification, regio
 
 ##  Dashboard Insights Summary
 
-### 1️⃣ Customer Concentration by Region
+### Customer Concentration by Region
 - **England** holds the highest customer base (**2,159 customers**).
 - **Scotland** follows with **1,124 customers**.
 - **Wales** and **Northern Ireland** have smaller segments with **520** and **211** customers respectively.
 
 ---
 
-### 2️⃣ Balance Distribution
+### Balance Distribution
 - The majority of customers have balances between **0 - 36K**.
 - A significant drop-off is observed in customers with balances above **72K**.
 - Indicates a customer base skewed towards lower balance brackets.
 
 ---
 
-### 3️⃣ Job Classification Trends
+### Job Classification Trends
 - **White Collar workers** make up the largest segment (~70%).
 - **Blue Collar** and **Other** categories form the remaining share.
 - Suggests the bank primarily serves professional-class customers.
 
 ---
 
-### 4️⃣ Age Distribution Patterns
+### Age Distribution Patterns
 - Customers aged **30-40 years** form the largest age group.
 - A smaller proportion of customers are below **20** or above **50**.
 - The bank’s customer base is largely mid-aged adults.
 
 ---
 
-### 5️⃣ Gender Split
+### Gender Split
 - **Male customers (54%)** slightly outnumber **Female customers (46%)**.
 - Gender distribution is relatively balanced, with a slight male dominance.
 
