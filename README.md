@@ -7,7 +7,7 @@ A portfolio of interactive dashboards built using Power BI and Tableau, covering
 
 ---
 
-##  Power BI Dashboards
+#  Power BI Dashboards
 
 1. ### [Emergency Room Visit Report](powerbi/emergency-room-visit-report/)
    - **Industry:** Healthcare  
